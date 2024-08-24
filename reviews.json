@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Smith",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Excellent lecturer, very clear explanations."
+      },
+      {
+        "professor": "Prof. Johnson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Brilliant teacher, makes complex concepts easy to understand."
+      },
+      {
+        "professor": "Dr. Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Knowledgeable but lectures can be a bit dry."
+      },
+      {
+        "professor": "Prof. Davis",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject, engaging lectures."
+      },
+      {
+        "professor": "Dr. Wilson",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Best professor I've had, very supportive."
+      },
+      {
+        "professor": "Prof. Martinez",
+        "subject": "Art",
+        "stars": 4,
+        "review": "Inspires creativity, encourages students' artistic growth."
+      },
+      {
+        "professor": "Dr. Garcia",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Clear and concise teaching style, makes biology interesting."
+      },
+      {
+        "professor": "Prof. Miller",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Passionate about literature, enriching discussions."
+      },
+      {
+        "professor": "Dr. Thompson",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Knows the subject well but lectures can be disorganized."
+      },
+      {
+        "professor": "Prof. White",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Engaging lectures, makes psychology concepts relatable."
+      },
+      {
+        "professor": "Dr. Lee",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Great at fostering critical thinking, very knowledgeable."
+      },
+      {
+        "professor": "Prof. Clark",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Interesting perspective on societal issues, engaging class discussions."
+      },
+      {
+        "professor": "Dr. Adams",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about the environment, insightful lectures."
+      },
+      {
+        "professor": "Prof. Hall",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Very talented musician, enjoyable classes."
+      },
+      {
+        "professor": "Dr. Wright",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Knows the material but lectures can be difficult to follow."
+      },
+      {
+        "professor": "Prof. King",
+        "subject": "Business",
+        "stars": 4,
+        "review": "Practical insights into business strategies, helpful feedback."
+      },
+      {
+        "professor": "Dr. Hill",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Deep thinker, thought-provoking lectures."
+      },
+      {
+        "professor": "Prof. Baker",
+        "subject": "Communications",
+        "stars": 4,
+        "review": "Interactive classes, practical communication skills taught."
+      },
+      {
+        "professor": "Dr. Young",
+        "subject": "Medicine",
+        "stars": 4,
+        "review": "Expertise in medical field, supportive mentor."
+      },
+      {
+        "professor": "Prof. Green",
+        "subject": "Education",
+        "stars": 5,
+        "review": "Passionate about teaching, cares deeply about students' success."
+      },
+      {
+        "professor": "Dr. Cook",
+        "subject": "Culinary Arts",
+        "stars": 4,
+        "review": "Creative approach to culinary education, enjoyable classes."
+      }
+    ]
+  }
+  
